@@ -443,7 +443,7 @@
 		clock-names = "cpu0_clk", "cpu1_clk",
 				"cpu2_clk", "cpu3_clk";
 		qcom,cpufreq-table =
-			 <  50000 >,
+			 <   50000 >,
 			 <  100000 >,
 			 <  150000 >,
 			 <  200000 >,
